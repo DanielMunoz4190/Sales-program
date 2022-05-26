@@ -1,0 +1,16 @@
+A0,kiwi,20.0000,30
+A1,manzana,10.0000,15
+A2,pera,12.0000,10
+A3,naranja,5.0000,10
+A4,fresa,3.0000,50
+A5,melon,28.0000,10
+A6,pepino,7.0000,15
+B1,calabza,6.0000,10
+B2,tomate,3.0000,20
+B3,limon,2.0000,30
+B4,lechuga,19.0000,10
+B5,jitomate,3.0000,20
+B6,chayote,9.0000,8
+C1,papa,6.0000,10
+C2,frijol,1.0000,10
+C3,jicama,10.0000,16
